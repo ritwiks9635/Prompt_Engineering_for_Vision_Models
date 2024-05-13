@@ -1,5 +1,5 @@
 # Prompt_Engineering_for_Vision_Models
-[](https://learn.deeplearning.ai/accomplishments/f44da597-7edf-468c-a47b-8e95f7c20f9b?usp=sharing)
+[complete](https://learn.deeplearning.ai/accomplishments/f44da597-7edf-468c-a47b-8e95f7c20f9b?usp=sharing)
 Prompt engineering is used not only in text models but also in vision models. Depending on the vision model, they may use text prompts, but can also work with pixel coordinates, bounding boxes, or segmentation masks.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkq4KRHz_FBMATU1b69VhM2HgqoaaLkCLCqw&usqp=CAU)
